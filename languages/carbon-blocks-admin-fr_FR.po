@@ -1,0 +1,551 @@
+# Copyright (C) 2024 Mateo Pommier
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Carbon Blocks 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/build\n"
+"POT-Creation-Date: 2024-05-28T17:35:11+02:00\n"
+"PO-Revision-Date: 2024-05-28 20:17+0200\n"
+"Last-Translator: Mateo <mateo@carbon-plugins.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Domain: carbon-blocks\n"
+
+#. Plugin Name of the plugin
+msgid "Carbon Blocks"
+msgstr "Carbon Blocks"
+
+#. Plugin URI of the plugin
+msgid "https://carbon-plugins.com/carbon-blocks/"
+msgstr "https://carbon-plugins.com/carbon-blocks/"
+
+#. Description of the plugin
+msgid "Add a powerful block library to extend your Gutenberg editor"
+msgstr ""
+"Ajoutez une puissante bibliothèque de blocs pour étendre votre éditeur "
+"Gutenberg"
+
+#. Author of the plugin
+msgid "Mateo Pommier"
+msgstr "Mateo Pommier"
+
+#. Author URI of the plugin
+msgid "https://carbon-plugins.com/"
+msgstr "https://carbon-plugins.com/"
+
+#: admin/carbon-blocks-dashboard.php:10
+msgid ""
+"Enhance your content creation with Carbon Icons, a dynamic WordPress plugin "
+"designed to elevate your block editor experience. Choose from an extensive "
+"selection of modern and complexe SVG icons to effortlessly enrich your "
+"website's appearance."
+msgstr ""
+"Améliorez votre création de contenu avec Carbon Icons, un plugin WordPress "
+"dynamique conçu pour améliorer votre expérience sur Gutenberg. Choisissez "
+"parmi une vaste sélection d’icônes et de librairies pour enrichir sans "
+"effort l’apparence de votre site web."
+
+#: admin/carbon-blocks-dashboard.php:19
+msgid ""
+"Unleash your creativity with Carbon Blocks, an ingenious WordPress plugin "
+"that expands the potential of your block editor. Seamlessly create "
+"captivating layouts and designs to enrich your website's visual appeal."
+msgstr ""
+"Libérez votre créativité avec Carbon Blocks, un plugin WordPress ingénieux "
+"qui étend le potentiel de votre éditeur de blocs Gutenberg. Créez en toute "
+"simplicité des mises en page et des designs captivants pour enrichir "
+"l’attrait visuel de votre site web."
+
+#: admin/carbon-blocks-dashboard.php:29
+msgid ""
+"Engage your visitors with Carbon Sliders, an exceptional WordPress plugin "
+"designed to help you build captivating image and content sliders "
+"effortlessly. Elevate your website's appeal and leave a lasting impression "
+"on your audience."
+msgstr ""
+"Engagez vos visiteurs avec Carbon Sliders, un plugin WordPress exceptionnel "
+"conçu pour vous aider à créer des sliders d’image de contenu sans effort. "
+"Améliorez l’experience de votre site web et laissez une impression durable "
+"sur votre public."
+
+#: admin/carbon-blocks-dashboard.php:44
+msgid "Good morning "
+msgstr "Bonjour "
+
+#: admin/carbon-blocks-dashboard.php:45
+msgid "Good afternoon "
+msgstr "Bon après-midi "
+
+#: admin/carbon-blocks-dashboard.php:46
+msgid "Good evening "
+msgstr "Bonsoir "
+
+#: admin/carbon-blocks-dashboard.php:47
+msgid "Good night "
+msgstr "Bonsoir "
+
+#: admin/carbon-blocks-dashboard.php:66
+msgid "guest !"
+msgstr "invité !"
+
+#: admin/carbon-blocks-dashboard.php:73
+msgid "Currently installed plugins"
+msgstr "Extensions actuellement installées"
+
+#: admin/carbon-blocks-dashboard.php:99
+msgid "Active"
+msgstr "Actif"
+
+#: admin/carbon-blocks-dashboard.php:107 src/admin/index.js:84660
+#: src/admin/index.js:51651
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: admin/carbon-blocks-dashboard.php:113 src/admin/index.js:84769
+#: src/admin/index.js:51759
+msgid "License"
+msgstr "Licence"
+
+#: admin/carbon-blocks-dashboard.php:125
+msgid "Inactive"
+msgstr "Inactif"
+
+#: admin/carbon-blocks-dashboard.php:135
+msgid "Our other plugins"
+msgstr "Nos autres plugins"
+
+#: admin/carbon-blocks-dashboard.php:153
+msgid "New"
+msgstr "Nouveau"
+
+#: admin/carbon-blocks-dashboard.php:156
+msgid "Coming soon"
+msgstr "Prochainement"
+
+#: admin/carbon-blocks-dashboard.php:166 src/admin/index.js:84088
+#: src/admin/index.js:84278 src/admin/index.js:51218 src/admin/index.js:51356
+msgid "Get started"
+msgstr "Démarrer"
+
+#: admin/carbon-blocks-dashboard.php:172
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: admin/carbon-blocks-dashboard.php:179
+msgid "All plugins are installed ! Thank you for your loyalty :)"
+msgstr "Toutes les extensions sont installées ! Merci pour votre loyauté :)"
+
+#: admin/carbon-blocks-dashboard.php:184
+msgid "Useful links"
+msgstr "Liens utiles"
+
+#: admin/carbon-blocks-dashboard.php:186
+msgid "Carbon Plugins Website"
+msgstr "Le site web"
+
+#: admin/carbon-blocks-dashboard.php:187
+msgid "Carbon Plugins Shop"
+msgstr "La boutique"
+
+#: admin/carbon-blocks-dashboard.php:188
+msgid "Carbon Plugins Documentation"
+msgstr "La documentation"
+
+#: admin/carbon-blocks-dashboard.php:189
+msgid "Carbon Plugins Support"
+msgstr "Le support"
+
+#: src/admin/index.js:84021 src/admin/index.js:51183
+msgid "Carbon Plugins"
+msgstr "Carbon Plugins"
+
+#: src/admin/index.js:84021 src/admin/index.js:51183
+msgid "All Rights Reserved"
+msgstr "Tous droits réservés"
+
+#: src/admin/index.js:84029 src/admin/index.js:51187
+msgid "Buy a license"
+msgstr "Acheter une licence"
+
+#: src/admin/index.js:84035 src/admin/index.js:51190
+msgid "Support"
+msgstr "Support"
+
+#: src/admin/index.js:84041 src/admin/index.js:51193
+msgid "Contact us"
+msgstr "Nous contacter"
+
+#: src/admin/index.js:84047 src/admin/index.js:51196
+msgid "Review"
+msgstr "Noter"
+
+#: src/admin/index.js:84092 src/admin/index.js:84096 src/admin/index.js:84100
+#: src/admin/index.js:84288 src/admin/index.js:84299 src/admin/index.js:84313
+#: src/admin/index.js:51221 src/admin/index.js:51224 src/admin/index.js:51227
+#: src/admin/index.js:51377 src/admin/index.js:51399 src/admin/index.js:51424
+msgid "Buy now"
+msgstr "Acheter maintenant"
+
+#: src/admin/index.js:84111 src/admin/index.js:51244
+msgid "year"
+msgstr "an"
+
+#: src/admin/index.js:84113 src/admin/index.js:51249
+msgid "once"
+msgstr "une fois"
+
+#: src/admin/index.js:84141 src/admin/index.js:51280
+msgid "Included in free license"
+msgstr "Inclus dans la licence gratuite"
+
+#: src/admin/index.js:84143 src/admin/index.js:51281
+msgid "Everyting in free, plus..."
+msgstr "Tout dans la version gratuite, plus…"
+
+#: src/admin/index.js:84168 src/admin/index.js:51301
+msgid "Yearly"
+msgstr "Annuel"
+
+#: src/admin/index.js:84172 src/admin/index.js:51304
+msgid "Lifetime"
+msgstr "A vie"
+
+#: src/admin/index.js:84272 src/admin/index.js:51343
+msgid "Free"
+msgstr "Gratuit"
+
+#: src/admin/index.js:84275 src/admin/index.js:51346
+msgid "Free, forever, for 1 website"
+msgstr "Gratuit, pour toujours, pour 1 site"
+
+#: src/admin/index.js:84276 src/admin/index.js:51348
+msgid "18 free blocks"
+msgstr "18 blocs gratuits"
+
+#: src/admin/index.js:84276 src/admin/index.js:51349
+msgid "2 free slider blocks"
+msgstr "2 blocs diaporama gratuits"
+
+#: src/admin/index.js:84276 src/admin/index.js:51350
+msgid "Default block animations"
+msgstr "Animations de blocs par défaut"
+
+#: src/admin/index.js:84276 src/admin/index.js:51351
+msgid "Duplicate and delete buttons"
+msgstr "Bouttons de duplication / suppression"
+
+#: src/admin/index.js:84276 src/admin/index.js:51352
+msgid "Powerful customization"
+msgstr "Personnalisation poussée"
+
+#: src/admin/index.js:84276 src/admin/index.js:51353
+msgid "Regular support"
+msgstr "Support de base"
+
+#: src/admin/index.js:84282 src/admin/index.js:51360
+msgid "Personnal"
+msgstr "Personnel"
+
+#: src/admin/index.js:84285 src/admin/index.js:51363
+msgid "1 licenses for your webiste"
+msgstr "Licence pour 1 site web"
+
+#: src/admin/index.js:84286 src/admin/index.js:51365
+msgid "Yearly licenses for 1 website"
+msgstr "Licence annuelle pour 1 site web"
+
+#: src/admin/index.js:84286 src/admin/index.js:84297 src/admin/index.js:84311
+#: src/admin/index.js:51366 src/admin/index.js:51388 src/admin/index.js:51413
+msgid "6 Premium blocks"
+msgstr "6 blocs premiums"
+
+#: src/admin/index.js:84286 src/admin/index.js:84297 src/admin/index.js:84311
+#: src/admin/index.js:51367 src/admin/index.js:51389 src/admin/index.js:51414
+msgid "3 Premium slider blocks"
+msgstr "3 blocs de diaporama premiums"
+
+#: src/admin/index.js:84286 src/admin/index.js:84297 src/admin/index.js:84311
+#: src/admin/index.js:51368 src/admin/index.js:51390 src/admin/index.js:51415
+msgid "Premium block animations"
+msgstr "Animations de blocs premiums"
+
+#: src/admin/index.js:84286 src/admin/index.js:84297 src/admin/index.js:84311
+#: src/admin/index.js:51369 src/admin/index.js:51391 src/admin/index.js:51416
+msgid "More animations settings"
+msgstr "Plus de paramètres d’animations"
+
+#: src/admin/index.js:84286 src/admin/index.js:84297 src/admin/index.js:84311
+#: src/admin/index.js:51370 src/admin/index.js:51392 src/admin/index.js:51417
+msgid "Premium text animations"
+msgstr "Animations de texte premiums"
+
+#: src/admin/index.js:84286 src/admin/index.js:84297 src/admin/index.js:84311
+#: src/admin/index.js:51371 src/admin/index.js:51393 src/admin/index.js:51418
+msgid "4 premium icon libraries"
+msgstr "4 bibliothèques d’icônes premiums"
+
+#: src/admin/index.js:84286 src/admin/index.js:84297 src/admin/index.js:51372
+#: src/admin/index.js:51394
+msgid "Premium support for 1 year"
+msgstr "Support premium pour 1 an"
+
+#: src/admin/index.js:84286 src/admin/index.js:84297 src/admin/index.js:51373
+#: src/admin/index.js:51395
+msgid "Online chat access"
+msgstr "Accès au chat en ligne"
+
+#: src/admin/index.js:84286 src/admin/index.js:84297 src/admin/index.js:51374
+#: src/admin/index.js:51396
+msgid "Futur updates for 1 year"
+msgstr "Futures mises à jour pour 1 an"
+
+#: src/admin/index.js:84292 src/admin/index.js:51381
+msgid "Business"
+msgstr "Entreprise"
+
+#: src/admin/index.js:84296 src/admin/index.js:51385
+msgid "5 licenses for busy developpers"
+msgstr "5 licences pour les développeurs"
+
+#: src/admin/index.js:84297 src/admin/index.js:51387
+msgid "Yearly licenses for 5 website"
+msgstr "Licence annuel pour 5 sites"
+
+#: src/admin/index.js:84302 src/admin/index.js:51402
+msgid "Most popular"
+msgstr "Plus populaire"
+
+#: src/admin/index.js:84306 src/admin/index.js:51406
+msgid "Agency"
+msgstr "Agence"
+
+#: src/admin/index.js:84310 src/admin/index.js:51410
+msgid "15 licenses for web agencies"
+msgstr "15 licenses pour les agences web"
+
+#: src/admin/index.js:84311 src/admin/index.js:51412
+msgid "Yearly licenses for 15 website"
+msgstr "Licence annuelle pour 15 sites"
+
+#: src/admin/index.js:84311 src/admin/index.js:51419
+msgid "Premium support, forever"
+msgstr "Support premium pour toujours"
+
+#: src/admin/index.js:84311 src/admin/index.js:51420
+msgid "Online chat access, forever"
+msgstr "Accès au chat en ligne, pour toujours"
+
+#: src/admin/index.js:84311 src/admin/index.js:51421
+msgid "Futur updates, forever"
+msgstr "Futures mises à jour, pour toujours"
+
+#: src/admin/index.js:84316 src/admin/index.js:51427
+msgid "Best value"
+msgstr "Meilleure offre"
+
+#: src/admin/index.js:84444 src/admin/index.js:51493
+msgid "Your dashboard"
+msgstr "Votre tableau de bord"
+
+#: src/admin/index.js:84445 src/admin/index.js:51493
+msgid "You will find every setting and useful links on this page."
+msgstr "Vous trouverez sur cette page tous les paramètres et les liens utiles."
+
+#: src/admin/index.js:84452 src/admin/index.js:51494
+msgid "License settings"
+msgstr "Paramètres de la licence"
+
+#: src/admin/index.js:84453 src/admin/index.js:51494
+msgid "Here, you will be able to manage your license."
+msgstr ""
+"Ici, vous pourrez gérer votre licence (uniquement dans la version pro)."
+
+#: src/admin/index.js:84461 src/admin/index.js:51495
+msgid "Toggle the light/dark theme and choose the colors that suit you best."
+msgstr ""
+"Basculez entre le thème clair/foncé et choisissez les couleurs qui vous "
+"conviennent le mieux."
+
+#: src/admin/index.js:84468 src/admin/index.js:51496
+msgid "Save your changes"
+msgstr "Enregistrer vos modifications"
+
+#: src/admin/index.js:84469 src/admin/index.js:51496
+msgid "Don't forget to save data after every change on this page !"
+msgstr ""
+"N’oubliez pas de sauvegarder les données après vos changement sur cette "
+"page !"
+
+#: src/admin/index.js:84475 src/admin/index.js:51497
+msgid "Congrats !"
+msgstr "Félicitations !"
+
+#: src/admin/index.js:84476 src/admin/index.js:51497
+msgid "You are now ready to get started with Carbon Blocks, have fun !"
+msgstr ""
+"Vous êtes maintenant prêt à vous lancer avec Carbon Blocks, amusez-vous "
+"bien !"
+
+#: src/admin/index.js:84527 src/admin/index.js:51537
+msgid "Saving..."
+msgstr "Sauvegarde…"
+
+#: src/admin/index.js:84534 src/admin/index.js:51542
+msgid "Successfully saved !"
+msgstr "Sauvegarde effectuée avec succès !"
+
+#: src/admin/index.js:84541 src/admin/index.js:51547
+msgid "Error while saving"
+msgstr "Erreur lors de la sauvegarde"
+
+#: src/admin/index.js:84555 src/admin/index.js:51561
+msgid "Info"
+msgstr "Info"
+
+#: src/admin/index.js:84556 src/admin/index.js:51562
+msgid "Oh snapp ! Something went wrong"
+msgstr "Mince ! Quelque chose s’est mal passé"
+
+#: src/admin/index.js:84557 src/admin/index.js:51563
+msgid "Reload the page"
+msgstr "Recharger la page"
+
+#: src/admin/index.js:84570 src/admin/index.js:51571
+msgid "License is active"
+msgstr "La licence est active"
+
+#: src/admin/index.js:84571 src/admin/index.js:51572
+msgid "License is not active"
+msgstr "La license est inactive"
+
+#: src/admin/index.js:84578 src/admin/index.js:51578
+msgid "Saving"
+msgstr "Sauvegarde en cours"
+
+#: src/admin/index.js:84580 src/admin/index.js:51581
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: src/admin/index.js:84664 src/admin/index.js:51657
+msgid "Settings"
+msgstr "Paramètres"
+
+#: src/admin/index.js:84666 src/admin/index.js:51661
+msgid "Delete all data on plugin remove"
+msgstr "Effacer toutes les données lors de la suppression du plugin"
+
+#: src/admin/index.js:84675 src/admin/index.js:51669
+msgid "Replay animation tour"
+msgstr "Rejouer le tour de découverte"
+
+#: src/admin/index.js:84677 src/admin/index.js:51675
+msgid "Found a bug ? Need help ?"
+msgstr "Vous avez trouvé un bug ? Besoin d’aide ?"
+
+#: src/admin/index.js:84677 src/admin/index.js:51676
+msgid "Please contact us if you found a bug or if you have any question."
+msgstr ""
+"N’hésitez pas à nous contacter si vous avez trouvé un bug ou si vous avez "
+"des questions."
+
+#: src/admin/index.js:84687 src/admin/index.js:51682
+msgid "Help with my license key"
+msgstr "Aide avec ma clé de licence"
+
+#: src/admin/index.js:84695 src/admin/index.js:51688
+msgid "Bug with the plugin"
+msgstr "Bug avec le plugin"
+
+#: src/admin/index.js:84703 src/admin/index.js:51694
+msgid "Other question"
+msgstr "Autre question"
+
+#: src/admin/index.js:84705 src/admin/index.js:51701
+msgid "Leave us a review !"
+msgstr "Laissez-nous un commentaire !"
+
+#: src/admin/index.js:84705 src/admin/index.js:51702
+msgid "Are you happy with our plugin ?"
+msgstr "Etes-vous satisfait de notre plugin ?"
+
+#: src/admin/index.js:84714 src/admin/index.js:51708
+msgid "Leave a review"
+msgstr "Laisser un commentaire"
+
+#: src/admin/index.js:84716 src/admin/index.js:51712
+msgid "The community"
+msgstr "La communauté"
+
+#: src/admin/index.js:84716 src/admin/index.js:51713
+msgid "Find community help with our support threads !"
+msgstr "Trouvez de l’aide grâce à nos topiques de support!"
+
+#: src/admin/index.js:84725 src/admin/index.js:51718
+msgid "Read the threads"
+msgstr "Lire les topiques"
+
+#: src/admin/index.js:84773 src/admin/index.js:51769
+msgid "You are currently using the free version of Carbon Icons"
+msgstr "Vous utilisez actuellement la version gratuite de Carbon Icons"
+
+#: src/admin/index.js:84773 src/admin/index.js:51771
+msgid ""
+"You can choose a plan below to start taking advantage of thousands new "
+"icons, premium support and much more !"
+msgstr ""
+
+#~ msgid "Why not buy a yearly license ..."
+#~ msgstr "Pourquoi ne pas acheter une licence annuelle …"
+
+#~ msgid ""
+#~ "Unlock the full Carbon Plugins experience: thousands of blocks, multiple "
+#~ "libraries, all futur updates and premium support."
+#~ msgstr ""
+#~ "Débloquez l’expérience complète de Carbon Plugins : des milliers "
+#~ "d’icônes, de multiples bibliothèques, toutes les futures mises à jour et "
+#~ "un support premium."
+
+#~ msgid "Access to Dashicon library"
+#~ msgstr "Accès à la bibliothèque Dashicon"
+
+#~ msgid "Access to Classic Icons library"
+#~ msgstr "Accès à la bibliothèque d’icônes classiques"
+
+#~ msgid "Access to 7300+ Advanced Icons library"
+#~ msgstr "Accès à une bibliothèque de plus de 7300 icônes avancées"
+
+#~ msgid "Access to Animated library"
+#~ msgstr "Accès à la bibliothèque animée"
+
+#~ msgid "Access to Logo library"
+#~ msgstr "Accès à la bibliothèque Logo"
+
+#~ msgid "Access to Flag library"
+#~ msgstr "Accès à la bibliothèque Flag"
+
+#~ msgid "12 months"
+#~ msgstr "12 mois"
+
+#~ msgid "$39"
+#~ msgstr "39$"
+
+#~ msgid "... or a lifetime license ?"
+#~ msgstr "… ou une licence à vie ?"
+
+#~ msgid ""
+#~ "Save more by buying a lifetime license and get full content, plugin "
+#~ "updates and support, for ever."
+#~ msgstr ""
+#~ "Économisez encore plus en achetant une licence à vie et bénéficiez du "
+#~ "contenu complet, des mises à jour des plugins et de l’assistance, pour "
+#~ "toujours."
+
+#~ msgid "ever"
+#~ msgstr "toujours"
+
+#~ msgid "$119"
+#~ msgstr "119$"
